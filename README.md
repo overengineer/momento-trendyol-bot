@@ -8,7 +8,7 @@ pip install selenium
 ```
 Chrome ayarlarından versiyona bakın.
 Kullandığınız versiyona ait driver'ı indirin.
-EXE_PATH ve COMPANY değişkenlerini g?ncelleyin.
+EXE_PATH ve COMPANY değişkenlerini güncelleyin.
 
 
 trendyol.py kuponları alır.
