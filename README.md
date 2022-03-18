@@ -11,7 +11,7 @@ Kullandığınız versiyona ait driver'ı indirin.
 EXE_PATH ve COMPANY değişkenlerini g?ncelleyin.
 
 
-trendyol.py kuponları al?r.
+trendyol.py kuponları alır.
 codes.py aldığınız kuponları listeler.
 
 Trendyol cüzdana aktarma için bot yazamıyorum. Trendyol Captcha koymuş.
