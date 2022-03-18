@@ -1,11 +1,10 @@
 # Momento Trendyol Coupon Purchase Bot
 
-https://chromedriver.chromium.org/downloads
-
 Selenium kurun:
 ```
 pip install selenium
 ```
+https://chromedriver.chromium.org/downloads
 Chrome ayarlarından versiyona bakın.
 Kullandığınız versiyona ait driver'ı indirin.
 EXE_PATH ve COMPANY değişkenlerini güncelleyin.
