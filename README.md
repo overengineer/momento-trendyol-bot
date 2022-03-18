@@ -2,12 +2,12 @@
 
 https://chromedriver.chromium.org/downloads
 
-Chrome ayarlar?ndan versiyona bak?n.
-Kulland???n?z versiyona ait driver'? indirin.
-EXE_PATH ve COMPANY de?i?kenlerini g?ncelleyin.
+Chrome ayarlarından versiyona bak?n.
+Kullandığınız versiyona ait driver'ı indirin.
+EXE_PATH ve COMPANY değişkenlerini g?ncelleyin.
 
 
-trendyol.py kuponlar? al?r.
-codes.py ald???n?z kuponlar? listeler.
+trendyol.py kuponları al?r.
+codes.py aldığınız kuponları listeler.
 
-Trendyol c?zdana aktarma i?in bot yazam?yorum. Trendyol Captcha koymu?.
+Trendyol cüzdana aktarma için bot yazamıyorum. Trendyol Captcha koymuş.
