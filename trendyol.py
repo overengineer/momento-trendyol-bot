@@ -26,9 +26,6 @@ trendyol_url = f"https://portal.momento.com.tr/{COMPANY}/trendyol-hediye-kodu---
 while True:
     driver.get(trendyol_url)
     time.sleep(2)
-    price=driver.find_element_by_id("total-price")
-    price.
-    time.sleep(0.5)
     driver.execute_script("""
         for (var i=0; i<10; i++)
         {
