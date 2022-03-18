@@ -16,3 +16,5 @@ codes.py aldığınız kuponları listeler.
 Trendyol cüzdana aktarma için bot yazamıyorum. Trendyol Captcha koymuş.
 
 Starlamayı ve followlamayı unutmayın;)
+
+İyi harcamalar..
